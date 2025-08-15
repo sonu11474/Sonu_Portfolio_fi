@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/sonu11474/Sonu_Portfolio_fi.git]
 cd your-repo-name
 ````
 
