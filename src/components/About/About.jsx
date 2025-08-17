@@ -40,12 +40,14 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-          Passionate Computer Science student with a strong interest in software development, full-stack web technologies, 
-          and IoT. Skilled in Java, MERN stack, and SQL, with hands-on experience building responsive and user-friendly 
-          applications.Proficient with development tools like Git, VS Code, and IntelliJ, and committed to solving real-world
-          problems through clean, efficient code and continuous learning. Certified in Cloud Computing, IoT, SQL, and Edge ML
-           by NPTEL and Coursera, with top percentile rankings including Silver Elite honors. Completed the LeetCode 100 Days
-            Coding Challenge  and earned a 3-star rating in Problem Solving on HackerRank.
+          Passionate Computer Science student with a strong interest in software development,
+          full-stack web technologies, and IoT. Skilled in Java, MERN stack, and SQL, with
+          hands-on experience building responsive and user-friendly applications.Proficient 
+          with development tools like Git, VS Code, and IntelliJ, and committed to solving 
+          real-world problems through clean, efficient code and continuous learning. Certified
+          in Cloud Computing, IoT, SQL, and Edge ML by NPTEL and Coursera, with top percentile
+          rankings including Silver Elite honors. Completed the LeetCode 100 Days Coding Challenge 
+          and earned a 3-star rating in Problem Solving on HackerRank.
           </p>
           {/* Resume Button */}
           <a
