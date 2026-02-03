@@ -256,16 +256,16 @@ export const SkillsInfo = [
       github: "https://github.com/sonu11474/Background_colour_changer",
       webapp: "https://sonu11474.github.io/Background_colour_changer/",
     },
-    // {
-    //   id: 6,
-    //   title: "Coding Master",
-    //   description:
-    //     "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-    //   image: cmLogo,
-    //   tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-    //   github: "https://codingmasterweb.in/",
-    //   webapp: "https://codingmasterweb.in/",
-    // },
+    {
+      id: 6,
+      title: "BlogLekhan – Full-Stack Blog Application",
+      description:
+        "BlogLekhan is a full-stack blog platform developed to allow users to create, edit, publish, and manage blog posts. The application includes user authentication, role-based access control, and RESTful APIs for efficient content handling. It is designed with a clean UI and a scalable backend to ensure secure and smooth user experience.",
+      image: blogLogo,
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "Rest Api" , "OpenAI API"],
+      github: "https://github.com/sonu11474/MY_BLOG_APP",
+      webapp: "https://my-blog-475t7mqpa-sonus-projects-231321bd.vercel.app/",
+    },
     // {
     //   id: 7,
     //   title: "Image Search App",
