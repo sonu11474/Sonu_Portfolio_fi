@@ -54,7 +54,7 @@ import backgroundLogo from './assets/work_logo/background.png';
 //import imagesearchLogo from './assets/work_logo/image_search.png';
 //import removebgLogo from './assets/work_logo/remove_bg.png';
 import WeatherLogo from './assets/work_logo/weather.png';
-import WeatherLogo from './assets/work_logo/blogLogo.png';
+import blogLogo from './assets/work_logo/blogLogo.png';
 
 //import { PiAmazonLogo } from 'react-icons/pi';
 
