@@ -26,7 +26,7 @@ const About = () => {
             <ReactTypingEffect
               text={[
                 'Fullstack Developer',
-                'App Developer',
+                'JAVA Developer',
                 'Coder',
               ]}
               speed={100}
@@ -40,14 +40,17 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-          Passionate Computer Science student with a strong interest in software development,
-          full-stack web technologies, and IoT. Skilled in Java, MERN stack, and SQL, with
-          hands-on experience building responsive and user-friendly applications.Proficient 
-          with development tools like Git, VS Code, and IntelliJ, and committed to solving 
-          real-world problems through clean, efficient code and continuous learning. Certified
-          in Cloud Computing, IoT, SQL, and Edge ML by NPTEL and Coursera, with top percentile
-          rankings including Silver Elite honors. Completed the LeetCode 100 Days Coding Challenge 
-          and earned a 3-star rating in Problem Solving on HackerRank.
+  Passionate Computer Science student with strong foundations in Java,
+  Data Structures and Algorithms, and SQL, complemented by hands-on
+  experience in full-stack web development. Skilled in designing and
+  developing scalable, secure, and responsive web applications using
+  Spring Boot, RESTful APIs, MySQL, React, and JavaScript. Successfully
+  built real-world projects including a Student Management System and
+ personal applications, focusing on clean architecture, efficient
+ backend development, database optimization, and seamless frontend–
+ integration. Demonstrates strong problem-solving abilities, 
+ a solid understanding of software development principles, and a 
+ continuous eagerness to learn and adapt to new technologies.
           </p>
           {/* Resume Button */}
           <a
